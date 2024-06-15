@@ -1,8 +1,17 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Provides real-time weather updates and predictions
+- Utilizes data from satellites, weather stations, and radar
+- Key features:
+  - Current conditions
+  - Hourly and daily forecasts
+  - Severe weather alerts
+  - Interactive radar maps
+- Customizable settings for preferred locations and notifications
+- Advanced features:
+  - Air quality indices
+  - Pollen counts
+  - UV index
+- Uses AI and machine learning for accurate forecasts
+- Aids in daily planning, travel, and emergency preparedness
+- User-friendly interface
+- Essential for staying informed and safe
+- Reflects advancements in meteorology and technology
